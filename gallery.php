@@ -260,30 +260,6 @@
                                 </li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                             </ul>
                             <nav>
                                 <span class="icon nav-prev"></span>

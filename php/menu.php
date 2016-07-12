@@ -77,15 +77,15 @@
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i> <span style="color: red;">Senarath Constructions</br> (Pvt)Ltd</span></li>
                                         <li role="separator" class="divider"></li>
                                         
-                                        <li><a href="#">Cement Blocks and Paving</a></li>
-                                        <li><a href="#">Senarath Readymix</a></li>
+                                        <li><a href="Cement_Blocks_and_Paving.php">Cement Blocks and Paving</a></li>
+                                        <li><a href="ready_mix.php">Senarath Readymix</a></li>
                                         <li><a href="#">Board Of Directors</a></li>
                                         <li><a href="#">Management Team</a></li>
                                         
                                         <li><a href="#">Achievements</a></li>
                                         <li><a href="#">Geographical Map</a></li>
                                         <li><a href="#">Environment Policy</a></li>
-                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="contact_us.php">Contact Us</a></li>
 
 
                                     </div>
@@ -95,7 +95,7 @@
                                        
                                         <li><a href="#">Products</a></li>
                                         <li><a href="#">Geographical Map</a></li>
-                                        <li><a href="#">Contact Us</a></li>
+                                        <li><a href="contact_us.php">Contact Us</a></li>
                                       
 
                                     </div>
@@ -106,7 +106,7 @@
                                        
                                         <li><a href="#">Geographical Map</a></li>
                                          <li><a href="#">About Us</a></li>
-                                         <li><a href="#">Contact Us</a></li>
+                                         <li><a href="contact_us.php">Contact Us</a></li>
                                       
 
                                     </div>
@@ -124,7 +124,7 @@
                                     <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color: red;"> Machinery</span></li>
                                         <li role="separator" class="divider"></li>
-                                        <li><a href="#">Asphalt Paving Fleet</a></li>
+                                        <li><a href="Asphalt_Paving_Fleet.php">Asphalt Paving Fleet</a></li>
                                         <li><a href="#">Excavators</a></li>
                                         <li><a href="#">Backhoe Loaders</a></li>
                                         <li><a href="#">Motor Graders</a></li>
@@ -161,7 +161,7 @@
                                      <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color: #d58512;"> CSR</span></li>
                                         <li role="separator" class="divider"></li>
-                                        <li><a href="#">Latest</a></li>
+                                        <li><a href="csr.php">Latest</a></li>
                                        
 
                                     </div>
