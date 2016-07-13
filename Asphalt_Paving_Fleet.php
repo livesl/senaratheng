@@ -130,7 +130,7 @@
                 transition: all 0.5s ease-in-out 0s;
             }
             .gal-item a:hover:after{
-                opacity: 1;
+               // opacity: 1;
             }
             .modal-open .gal-container .modal{
                 background-color: rgba(0,0,0,0.4);
@@ -360,7 +360,7 @@
                                 <header class="bigHead">
                                     <h2 class="h-alt">Asphalt Paving Fleet</h2>
                                 </header>
-                    <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/machinery/AsphaltPavingFleet.jpg" class="img-responsive" />
+                    <!--<img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/machinery/AsphaltPavingFleet.jpg" class="img-responsive" />-->
                    
                     <h2 class="h-alt"><b></b></h2>
 <!--                    <p style="text-align: justify;color: #007EFF;">
@@ -389,6 +389,8 @@
 
 
                     </ol>-->
+                    
+                   
 
 
                 </div>
@@ -396,6 +398,7 @@
             
            
         </section>
+         <?php include './php/asphalt_paving_fleet_gallery.php';?>
         
       
 
