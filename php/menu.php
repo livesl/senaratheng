@@ -125,7 +125,7 @@
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color: red;"> Machinery</span></li>
                                         <li role="separator" class="divider"></li>
                                         <li><a href="Asphalt_Paving_Fleet.php">Asphalt Paving Fleet</a></li>
-                                        <li><a href="#">Excavators</a></li>
+                                        <li><a href="Excavators.php">Excavators</a></li>
                                         <li><a href="#">Backhoe Loaders</a></li>
                                         <li><a href="#">Motor Graders</a></li>
                                         <li><a href="#">Rollers</a></li>
