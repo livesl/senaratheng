@@ -211,17 +211,17 @@
                     <div class="table-responsive">
                         <table class="table">
                             <tr class="table-responsive">
-                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/directorexp.jpg" class="img-responsive" /></td></br>
-                                <td> To be an Outstanding Sri Lankan Business Enterprise in the Construction industry. </td>
+                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/dir1.jpg" class="img-responsive" /></td></br>
+                                <td> Mr.P. Senarath Dassanayake</br>Chairman/Managing Director  </td>
                                
                             </tr>
                             <tr>
-                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/directorexp.jpg" class="img-responsive" /></td>
-                               <td> To be an Outstanding Sri Lankan Business Enterprise in the Construction industry. </td>
+                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/dir2.jpg" class="img-responsive" /></td>
+                               <td> Mr. Wimal S.Dassanayake </br>Director/CEO </td>
                             </tr>
                             <tr>
-                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/directorexp.jpg" class="img-responsive" /></td>
-                               <td> To be an Outstanding Sri Lankan Business Enterprise in the Construction industry. </td>
+                                <td>  <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/dir3.jpg" class="img-responsive" /></td>
+                               <td>Mrs. Mokshani Dassanayake </br>Director</td>
                             </tr>
                             
                         </table>

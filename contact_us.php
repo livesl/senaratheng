@@ -221,7 +221,7 @@
                         </div>
                         <div div class="col-sm-6" >
                               <h4>Phone No & Email</h4>
-                              <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   senarath@senaratheng.com</p>
+                              <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
                         </div>
                        
                         
@@ -229,14 +229,24 @@
                     </div></br>
                     
                     <div class="row">
-                        <div class="col-sm-12">
-                            <h4>Map</h4>
+                        <div class="col-sm-6">
+                            <h4>Head Office</h4>
                             
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2868099050825!2d80.0343060140855!3d7.321645815402717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e0995444dd9b%3A0x68a8a47945e845e4!2sSenarath+Engineering+(Pvt)+Ltd+%2F+(Head+Office)!5e0!3m2!1sen!2slk!4v1467969884839" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div> 
                         
+                         <div class="row">
+                        <div class="col-sm-6">
+                            <h4>Metal Crusher</h4>
+                            
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.4657344919324!2d80.06889581427922!3d7.301456015657089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e04144b13c01%3A0x21ac8f0f31481096!2sSenarath+Engineering+(Pvt)+Ltd.(+Metal+Crusher)!5e0!3m2!1sen!2slk!4v1468479069932" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </div> 
+                        
                     </div>
                     
+                        
+                    </div>
+                     
                 </div>
         </section><!--
          

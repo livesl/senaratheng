@@ -79,12 +79,12 @@
                                         
                                         <li><a href="Cement_Blocks_and_Paving.php">Cement Blocks and Paving</a></li>
                                         <li><a href="ready_mix.php">Senarath Readymix</a></li>
-                                        <li><a href="#">Board Of Directors</a></li>
+<!--                                        <li><a href="#">Board Of Directors</a></li>
                                         <li><a href="#">Management Team</a></li>
                                         
                                         <li><a href="#">Achievements</a></li>
                                         <li><a href="#">Geographical Map</a></li>
-                                        <li><a href="#">Environment Policy</a></li>
+                                        <li><a href="#">Environment Policy</a></li>-->
                                         <li><a href="contact_us.php">Contact Us</a></li>
 
 
@@ -94,7 +94,7 @@
                                         <li role="separator" class="divider"></li>
                                        
                                         <li><a href="#">Products</a></li>
-                                        <li><a href="#">Geographical Map</a></li>
+<!--                                        <li><a href="#">Geographical Map</a></li>-->
                                         <li><a href="contact_us.php">Contact Us</a></li>
                                       
 
@@ -102,10 +102,10 @@
                                     <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color: red;">Senarath Property & Land </br> Developers</span></li>
                                         
-                                        <li><a href="#">Ongoing Sites</a></li>
+                                        <li><a href="land_property.php">Ongoing Sites</a></li>
                                        
-                                        <li><a href="#">Geographical Map</a></li>
-                                         <li><a href="#">About Us</a></li>
+                                        <!--<li><a href="#">Geographical Map</a></li>-->
+                                         <li><a href="aboutus.php">About Us</a></li>
                                          <li><a href="contact_us.php">Contact Us</a></li>
                                       
 
@@ -126,14 +126,14 @@
                                         <li role="separator" class="divider"></li>
                                         <li><a href="Asphalt_Paving_Fleet.php">Asphalt Paving Fleet</a></li>
                                         <li><a href="Excavators.php">Excavators</a></li>
-                                        <li><a href="#">Backhoe Loaders</a></li>
-                                        <li><a href="#">Motor Graders</a></li>
-                                        <li><a href="#">Rollers</a></li>
-                                        <li><a href="#">Wheel Loaders</a></li>
-                                        <li><a href="#">Skid Steer Loaders</a></li>
-                                        <li><a href="#">Hydraulic Crawler Drill</a></li>
-                                        <li><a href="#">Tippers</a></li>
-                                        <li><a href="#">Trucks</a></li>
+                                        <li><a href="Backhoe_Loaders.php">Backhoe Loaders</a></li>
+                                        <li><a href="Motor_Graders.php">Motor Graders</a></li>
+                                        <li><a href="Rollers.php">Rollers</a></li>
+                                        <li><a href="Wheel_Loaders.php">Wheel Loaders</a></li>
+                                        <li><a href="Skid_Steer_Loaders.php">Skid Steer Loaders</a></li>
+                                        <li><a href="Hydraulic_Crawler_Drill.php">Hydraulic Crawler Drill</a></li>
+                                        <li><a href="tippers.php">Tippers</a></li>
+                                        <li><a href="trucks.php">Trucks</a></li>
                                     </div>
                                    
                                      
@@ -148,10 +148,11 @@
                                     </div>
                                     
                                      <div class="col-lg-3 mb-sm-30">
-                                        <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color:green;"> Going Green</span></li>
+                                        <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color:green;">Latest News</span></li>
                                         <li role="separator" class="divider"></li>
-<!--                                        <li><a href="#">Going Green1</a></li>
-                                        <li><a href="#">Going Green2</a></li>
+                                        <li><a href="events_news.php">News & Events</a></li>
+                                        
+<!--                                        <li><a href="#">Going Green2</a></li>
                                         <li><a href="#">Going Green3</a></li>
                                         <li><a href="#">Going Green4</a></li>-->
 

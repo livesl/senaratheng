@@ -18,10 +18,8 @@
                             <h5 class="header-widget">News & Events</h5>
                             <ul class="address-footer">
                                 <li>
-                                    <p><a href="#">News & Events 1</a></p>
-                                    <p><a href="#">News & Events 2</a></p>
-                                    <p><a href="#">News & Events 3</a></p>
-                                    <p><a href="#">News & Events 4</a></p>
+                                    <p><a href="events_news.php">News & Events</a></p>
+                                   
                                 </li>
 
 
@@ -36,10 +34,10 @@
                             <h5 class="header-widget">Quick Links</h5>
                             <ul class="address-footer">
                                 <li>
-                                    <p><a href="#">Home</a></p>
-                                    <p><a href="#">Comapanies</a></p>
-                                    <p><a href="#">SCR</a></p>
-                                    <p><a href="#">Contacts</a></p>
+                                    <p><a href="index.php">Home</a></p>
+                                    <p><a href="aboutus.php">About Us</a></p>
+                                    <p><a href="csr.php">SCR</a></p>
+                                    <p><a href="contact_us.php">Contacts</a></p>
                                 </li>
 
 
@@ -61,7 +59,7 @@
                                     </p>
                                 </li>
                                 <li>
-                                    <p>E mail: senarath@senaratheng.com <br /> TP: +94 37 2246324 <br/>Hot Line: +94 70 2520225</br>Fax:+94 37 2245049</p>
+                                    <p>E mail: info@senaratheng.com <br /> TP: +94 37 2246324 <br/>Hot Line: +94 70 2520225</br>Fax:+94 37 2245049</p>
                                 </li>
                             </ul>
                         </div>
