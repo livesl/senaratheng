@@ -199,17 +199,18 @@
                 <div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
             </div>
             <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 600px; height: 300px; overflow: hidden;">
-                <div data-p="112.50" style="display: none;">
-                    <img data-u="image" src="img/01.jpg" />
-                    <div data-u="thumb">Sentence one</div>
-                </div>
+               
                 <div data-p="112.50" style="display: none;">
                     <img data-u="image" src="img/02.jpg" />
-                    <div data-u="thumb">Sentence two</div>
+                    <div data-u="thumb">ROAD CONSTRUCTION</div>
+                </div>
+                 <div data-p="112.50" style="display: none;">
+                    <img data-u="image" src="img/01.jpg" />
+                    <div data-u="thumb">QUARRY AND CRUSHER PLANT</div>
                 </div>
                 <div data-p="112.50" style="display: none;">
                     <img data-u="image" src="img/03.jpg" />
-                    <div data-u="thumb">Sentence three</div>
+                    <div data-u="thumb">CEMENT BLOCKS AND PAVING PLANT</div>
                 </div>
                
                 <!--            <a data-u="ad" href="http://www.jssor.com" style="display:none">Bootstrap Slider</a>-->

@@ -254,12 +254,7 @@
                     </div>
 
                     <hr>
-                    <div class="row" >
-                        <div class="col-sm-4"> <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/managementteamimage.jpg" class="img-responsive" /></div>
-                        <div class="col-sm-4">Assistant Mechanical  Engineer</div>
-                        <div class="col-sm-4">Mr.U.G.P.R.N.B.Gunathilake [B.Sc (Hons).Mech] </div>
-
-                    </div>
+                   
 
                     <hr>
                     <div class="row" >

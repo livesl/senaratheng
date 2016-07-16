@@ -223,7 +223,7 @@
                             <li> Mahagalakanda  - Pannala </li>
                             <li> Kiribamuna  - Ibbagamuwa  </li>
                             <li> Doratiyawa  - Kurunegala   </li>
-                            <li> Doratiyawa  - Kurunegala   </li>
+                           
                         </ol>
 
                         <li>Cement Block Plant Pannala –  </li>

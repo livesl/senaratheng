@@ -209,50 +209,7 @@
                     <br />
                     <h2 class="h-alt"><b></b></h2>
 
-                    <div class="row">
-                        <div class="col-sm-2"></div>
-                        <div class="col-sm-8" style="text-align: left; color: blue;border: 2px solid black">
-                            <ul type='1'>
-
-                                <li>Negombo -  Kimbulapitiya Road Development Project</li>
-                                <li>Improvement of  Narammala – Waduwa Road</li>
-                                <li>Integrated Investment Road Programme Matale</li>
-                                <li>Improvement of Giriulla – Pasyala Road</li>
-                                <li>Development of Banduragoda – Waththemulla Road</li>
-                                <li>Development of  Urulemulla – Nawathalawaththa Road</li>
-                                <li>Development of the Post Hatariliyadda Road</li>
-                                <li>Improvement and Development of Dheerananda Mawatha</li>
-                                <li>Development of Yakwila – Wadumunegedara Road</li>
-                                <li>Improvement and Development of Makandura – Udawela Road</li>
-                                <li>Development of Mahgalkadawala – Werawewa Road</li>
-                                <li>Development of Urulemulla – Nawathalwaththa Road</li>
-                                <li>Improvement of Wewagedara – Kudagalgamuwa Road</li>
-                                <li>Development of  Kehellela – Horakankadawila Road</li>
-                                <li>Development of Maharachchimulla – Malhawa Road</li>
-                                <li>Development of Weeralugama – Kadanegedara Road</li>
-                                <li>Development of Rangama – Gonagama Road</li>
-                                <li>Construction of Paragammana – Horakele Road</li>
-                                <li>Construction and Development of Beragala – Dikella Road</li>
-                                <li>Development of Lima Junction to Weeragama</li>
-                                <li>Development of cross road  at Baragedara</li>
-                                <li>Development of Hadidadikanda Road</li>
-                                <li>Development of Brookeside – Mahakudugala Forest Road </li>
-                                <li>Development of Walikanda – Singhepura Road</li>
-                                <li>Hemilton canal Project in Wattala</li>
-                                <li>Mahagalakanda Quarry and Metal Crusher at pannala</li>
-                                <li>Asphalt plant in  Mahagalakanda  at pannala</li>
-                                <li>Doratiyawa Quarry and metal crusher at Kurunegala</li>
-                                <li>Kiribamuna Quarry and Metal Crusher at Ibbagamuwa</li>
-                                <li>Concrete and cement block plant at Pannala</li>
-
-
-                            </ul>
-
-
-                        </div>
-                        <div class="col-sm-2"></div>
-
-                    </div>  
+                  
 
 
                     <br /> 
