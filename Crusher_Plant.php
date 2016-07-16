@@ -6,7 +6,7 @@
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Senarath Group | Hydraulic Crawler Drill</title>
+        <title>Senarath Group | Crusher Plant</title>
         <!--<meta name="description" content="Established in the year 2000 and by understanding the opportunities available in the sector, ventured into the direct construction in 2007. With the strength of Associated Companies concept we have expanded our engineering services to cater the demands of the civil engineering sector, which resulted us to form of Business Promoters &amp; Partners Engineering (Pvt) Ltd." />-->
         <link rel="shortcut icon" href="images/favicon/favicon.png">
 
@@ -358,7 +358,7 @@
             <div class="row section-min">
                 <div class="col-md-offset-1 col-md-10  font6 historyTag ">
                                 <header class="bigHead">
-                                    <h2 class="h-alt">Hydraulic Crawler Drill</h2>
+                                    <h2 class="h-alt">Crusher Plant</h2>
                                 </header>
                     <!--<img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/machinery/AsphaltPavingFleet.jpg" class="img-responsive" />-->
                    
@@ -398,7 +398,7 @@
             
            
         </section>
-        <?php //include './php/Hydraulic_Crawler_Drill_Gallery.php';?>
+         <?php include './php/Crusher_Plant_gallery.php';?>
         
       
 

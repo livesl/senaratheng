@@ -361,7 +361,7 @@
                                     <h2 class="h-alt">About Us</h2>
                                 </header>-->
                     <img ata-wow-delay=".3s" data-wow-duration="1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s;" src="images/bg/about/csr.jpg" class="img-responsive" />
-                   
+
                     <h2 class="h-alt"><b></b></h2>
 <!--                    <p style="text-align: justify;color: #007EFF;">
                         In the fields of architecture and civil engineering construction is a process that consists of the building or assembling of infrastructure.
@@ -393,13 +393,41 @@
 
                 </div>
             </div>
-            
-           
+
+
         </section>
-        
-      <section>
+
+       
+        <section>
             <div class="container gal-container">
+                <hr>
+                <h3>Chayttya Opening</h3>
+                
+                  <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#13">
+                            <img src="images/csr/chayttaya/13.jpg">
+                        </a>
+                        <div class="modal fade" id="13" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/chayttaya/13.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#1">
                             <img src="images/csr/chayttaya/1.JPG">
@@ -419,7 +447,10 @@
                         </div>
                     </div>
                 </div>
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+                
+               
+                
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#2">
                             <img src="images/csr/chayttaya/2.JPG">
@@ -439,7 +470,7 @@
                         </div>
                     </div>
                 </div>
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#3">
                             <img src="images/csr/chayttaya/3.JPG">
@@ -459,8 +490,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#4">
                             <img src="images/csr/chayttaya/4.JPG">
@@ -480,8 +511,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#5">
                             <img src="images/csr/chayttaya/5.JPG">
@@ -501,8 +532,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#6">
                             <img src="images/csr/chayttaya/6.JPG">
@@ -522,8 +553,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#7">
                             <img src="images/csr/chayttaya/7.JPG">
@@ -543,8 +574,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#8">
                             <img src="images/csr/chayttaya/8.JPG">
@@ -564,8 +595,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#9">
                             <img src="images/csr/chayttaya/9.JPG">
@@ -585,8 +616,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#10">
                             <img src="images/csr/chayttaya/10.JPG">
@@ -606,8 +637,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#11">
                             <img src="images/csr/chayttaya/11.JPG">
@@ -627,8 +658,8 @@
                         </div>
                     </div>
                 </div>
-                
-                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
                     <div class="box">
                         <a href="#" data-toggle="modal" data-target="#12">
                             <img src="images/csr/chayttaya/12.JPG">
@@ -648,14 +679,180 @@
                         </div>
                     </div>
                 </div>
-                
-                
-                
-                
-               
+
 
             </div>
         </section>
+        
+        <!--//////////////////////////////////////////////////////////////////////////-->
+         <section>
+            <div class="container gal-container">
+                <hr>
+                <h3>Home Build</h3>
+                <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#20">
+                            <img src="images/csr/homebuild/1.jpg">
+                        </a>
+                        <div class="modal fade" id="20" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/1.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#14">
+                            <img src="images/csr/homebuild/2.jpg">
+                        </a>
+                        <div class="modal fade" id="14" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/2.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#15">
+                            <img src="images/csr/homebuild/3.jpg">
+                        </a>
+                        <div class="modal fade" id="15" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/3.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#16">
+                            <img src="images/csr/homebuild/4.jpg">
+                        </a>
+                        <div class="modal fade" id="16" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/4.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#17">
+                            <img src="images/csr/homebuild/5.jpg">
+                        </a>
+                        <div class="modal fade" id="17" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/5.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#18">
+                            <img src="images/csr/homebuild/6.jpg">
+                        </a>
+                        <div class="modal fade" id="18" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/6.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                 <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
+
+                    <div class="box">
+                        <a href="#" data-toggle="modal" data-target="#19">
+                            <img src="images/csr/homebuild/7.jpg">
+                        </a>
+                        <div class="modal fade" id="19" tabindex="-1" role="dialog">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+                                    <div class="modal-body">
+                                        <img src="images/csr/homebuild/7.jpg">
+                                    </div>
+                                    <div class="col-md-12 description">
+                                        <!--<h4>This is the first one on my Gallery</h4>-->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+
+        </section>   
+
+        
+        
+        <!--//////////////////////////////////////////////////////////////////////////-->
 
 
         <?php include './php/footer.php'; ?>

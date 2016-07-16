@@ -61,8 +61,28 @@
                                 </header>-->
                 </div>
             </div>
+            </br>  
+            <div class="row">
+                
+                <div class="col-md-offset-1 col-md-10">
+               <div class="col-md-offset-1 col-md-10">
+                  
+                   <h4 style="color: red;text-align: center;">Recent Projects</h4>
+                    
+                        <P style="color: green;text-align: center;">Project 1</p>
+                        <P style="color: green;text-align: center;">Project 2</p>
+                        <P style="color: green;text-align: center;">Project 3</p>
+                        
+                    
+                    
+                </div>
+                </div>
+                
+            </div>
             <div class="row">
                 <div class="col-md-offset-1 col-md-10">
+                    
+                    
                     <!--            <div class="row">
                                     <ul id="pfolio-filters" class="portfolio-filters">
                                         <li class="active"><a href="#" data-filter="*">All</a></li>
@@ -75,7 +95,9 @@
                                             <li><a href="#" data-filter=".marine" class="filter font6">Marine Works</a></li>
                                     </ul>
                                 </div>-->
-
+                    </br>
+                    <hr>
+<h4 style="color: red;text-align: center;">Completed Projects</h4>
                     <div id="grid-gallery" class="grid-gallery">
                         <section class="grid-wrap ">
                             <ul class="grid left-align" id="pfolio">

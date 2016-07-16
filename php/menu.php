@@ -32,7 +32,7 @@
                                         <li class="dropdown-header"><i class="fa fa-globe"></i><span style="color: blue;"> Projects</span></li>
                                         <li role="separator" class="divider"></li>
                                         <li><a href="projects.php">Projects</a></li>
-                                        <li><a href="#">Project Locations</a></li>
+                                        <!--<li><a href="#">Project Locations</a></li>-->
                                         <li role="separator" class="divider"></li>
                                     </div>
                                      <div class="col-lg-3 mb-sm-30">
@@ -68,7 +68,7 @@
                                         <li><a href="management_team.php">Management Team</a></li>
                                        
                                        
-                                        <li><a href="geographical_Map.php">Geographical Map</a></li>
+                                        <!--<li><a href="geographical_Map.php">Geographical Map</a></li>-->
                                         <li><a href="environment_policy.php">Environment Policy</a></li>
                                         <li><a href="contact_us.php">Contact Us</a></li>
 
@@ -140,24 +140,24 @@
                                      <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-th-large"></i><span style="color: blue;"> Plants</span></li>
                                         <li role="separator" class="divider"></li>
-                                        <li><a href="#">Crusher Plant</a></li>
+                                        <li><a href="Crusher_Plant.php">Crusher Plant</a></li>
                                         <li><a href="#">Asphalt Plant</a></li>
                                         <li><a href="#">Readymix Plant</a></li>
                                         <li><a href="#">Cement Blocks & Paving Plant</a></li>
                                         <li role="separator" class="divider"></li>
                                     </div>
                                     
-                                     <div class="col-lg-3 mb-sm-30">
+<!--                                     <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color:green;">Latest News</span></li>
                                         <li role="separator" class="divider"></li>
                                         <li><a href="events_news.php">News & Events</a></li>
                                         
-<!--                                        <li><a href="#">Going Green2</a></li>
+                                        <li><a href="#">Going Green2</a></li>
                                         <li><a href="#">Going Green3</a></li>
-                                        <li><a href="#">Going Green4</a></li>-->
+                                        <li><a href="#">Going Green4</a></li>
 
 
-                                    </div>
+                                    </div>-->
                                     
                                      <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header"><i class="fa fa-building-o"></i><span style="color: #d58512;"> CSR</span></li>
@@ -169,6 +169,10 @@
                                 </div>
                             </ul>
                         </li>
+                          <li class="dropdown mega-fw">
+                            <a href="events_news.php" class="dropdown-toggle">News</a>
+                        </li>
+                       
                         <li class="dropdown mega-fw">
                             <a href="contact_us.php" class="dropdown-toggle">Contact Us</a>
                         </li>

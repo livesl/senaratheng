@@ -219,7 +219,7 @@
                 color:#BC0213;
             }
             .gal-container{
-                padding-top :75px;
+                padding-top :0px;
                 padding-bottom:75px;
             }
             footer{

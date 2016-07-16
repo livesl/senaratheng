@@ -212,7 +212,8 @@
                     <br /> 
                     <div class="row">
                         <div div class="col-sm-6">
-                            <h4>Address</h4>
+                            <h4 style="color: #007EFF;">Head Office</h4></br>
+                            <!--<h6>Address</h6>-->
                             <p style="font-size: large;">
                                 Senarath Group </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
 
@@ -225,7 +226,8 @@
 
                         </div>
                         <div div class="col-sm-6" >
-                            <h4>Address</h4>
+                             <h4 style="color: #007EFF;">Querry and Metal Crusher</h4></br>
+                            <!--<h6>Address</h6>-->
                             <p style="font-size: large;">
                                 Senarath Engineering (pvt) Ltd </br> Mahagala kanda</br>Balawala</br>Bopitiya    
 
@@ -245,14 +247,14 @@
 
                     <div class="row">
                         <div class="col-sm-6">
-                            <h4>Head Office</h4>
+                            <!--<h4>Head Office</h4>-->
 
                             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2868099050825!2d80.0343060140855!3d7.321645815402717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e0995444dd9b%3A0x68a8a47945e845e4!2sSenarath+Engineering+(Pvt)+Ltd+%2F+(Head+Office)!5e0!3m2!1sen!2slk!4v1467969884839" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </div> 
 
                         <div class="row">
                             <div class="col-sm-6">
-                                <h4>Querry and Metal Crusher</h4>
+                                <!--<h4>Querry and Metal Crusher</h4>-->
 
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.4657344919324!2d80.06889581427922!3d7.301456015657089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2e04144b13c01%3A0x21ac8f0f31481096!2sSenarath+Engineering+(Pvt)+Ltd.(+Metal+Crusher)!5e0!3m2!1sen!2slk!4v1468479069932" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
                             </div> 
@@ -260,7 +262,44 @@
                         </div>
 
 
-                    </div>
+                    </div></br>
+                    <hr>
+                    </br>
+                    
+                     <div class="row">
+                        <div div class="col-sm-6">
+                            <h4 style="color: #007EFF;">Senarath Construction</h4></br>
+                            <!--<h6>Address</h6>-->
+                            <p style="font-size: large;">
+                                Senarath Construction </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
+
+                            <!--<h4>Phone No & Email</h4>-->
+                            <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
+
+
+                            </p>
+
+
+                        </div>
+                        <div div class="col-sm-6" >
+                             <h4 style="color: #007EFF;">Senarath Property & Land Developers</h4></br>
+                            <!--<h6>Address</h6>-->
+                            <p style="font-size: large;">
+                                Senarath Property & Land Developers </br> Mahagala kanda</br>Balawala</br>Bopitiya    
+
+                            <!--<h4>Phone No & Email</h4>-->
+                            <p style="font-size: large;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br> E-mail   :   info@senaratheng.com</p>
+
+
+                            </p>
+
+                            
+                            
+                        </div>
+
+
+
+                    </div></br>
 
                 </div>
         </section><!--
