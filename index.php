@@ -199,20 +199,29 @@
                 <div style="position:absolute;display:block;background:url('img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
             </div>
             <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 0px; width: 600px; height: 300px; overflow: hidden;">
-               
+
+                <div data-p="112.50" style="display: none;">
+                    <img data-u="image" src="img/05.jpg" />
+                     <?php // include './php/senarathgroupdiv.php';?>
+                    <div data-u="thumb"></div>
+                </div>
                 <div data-p="112.50" style="display: none;">
                     <img data-u="image" src="img/02.jpg" />
+
+                  <?php //include './php/senarathgroupdiv.php';?>
                     <div data-u="thumb">ROAD CONSTRUCTION</div>
                 </div>
-                 <div data-p="112.50" style="display: none;">
+                <div data-p="112.50" style="display: none;">
                     <img data-u="image" src="img/01.jpg" />
+                     <?php // include './php/senarathgroupdiv.php';?>
                     <div data-u="thumb">QUARRY AND CRUSHER PLANT</div>
                 </div>
                 <div data-p="112.50" style="display: none;">
                     <img data-u="image" src="img/03.jpg" />
+                     <?php // include './php/senarathgroupdiv.php';?>
                     <div data-u="thumb">CEMENT BLOCKS AND PAVING PLANT</div>
                 </div>
-               
+
                 <!--            <a data-u="ad" href="http://www.jssor.com" style="display:none">Bootstrap Slider</a>-->
 
             </div>
@@ -238,7 +247,7 @@
 
 
 
-       <?php include './php/footer.php';?>
+        <?php include './php/footer.php'; ?>
 
         <script src="assets/js/vendor/jquery-2.1.4.min.js"></script>
         <script src="assets/js/vendor/google-fonts.js"></script>
@@ -259,15 +268,15 @@
 
         <script src="assets/js/vendor/kenburns.js"></script>
         <script type="text/javascript">
-             $(document).ready(function () {
-                 //initKenburns();
+            $(document).ready(function () {
+                //initKenburns();
 //                 if ($(window).width() >= 1260) {
 //                    // initParallax();
 //                     $(window).stellar({
 //                         hideDistantElements: false
 //                     });
 //                 }
-             });
+            });
 
 //             function initKenburns() {
 //                 var hasKenburns = $('.kenburn-hero')[0];

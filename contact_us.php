@@ -226,13 +226,13 @@
 
                         </div>
                         <div div class="col-sm-6" >
-                             <h4 style="color: #007EFF;">Querry and Metal Crusher</h4></br>
+                             <h4 style="color: #007EFF;">Quarry and Metal Crusher</h4></br>
                             <!--<h6>Address</h6>-->
                             <p style="font-size: large;">
                                 Senarath Engineering (pvt) Ltd </br> Mahagala kanda</br>Balawala</br>Bopitiya    
 
                             <!--<h4>Phone No & Email</h4>-->
-                            <p style="font-size: large;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br> E-mail   :   info@senaratheng.com</p>
+                            <p style="font-size: large;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
 
 
                             </p>
@@ -268,10 +268,10 @@
                     
                      <div class="row">
                         <div div class="col-sm-6">
-                            <h4 style="color: #007EFF;">Senarath Construction</h4></br>
+                            <h4 style="color: #007EFF;">Senarath Construction <br>Pvt(Ltd)</h4></br>
                             <!--<h6>Address</h6>-->
                             <p style="font-size: large;">
-                                Senarath Construction </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
+                                Senarath Construction Pvt(Ltd) </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
 
                             <!--<h4>Phone No & Email</h4>-->
                             <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
@@ -285,10 +285,10 @@
                              <h4 style="color: #007EFF;">Senarath Property & Land Developers</h4></br>
                             <!--<h6>Address</h6>-->
                             <p style="font-size: large;">
-                                Senarath Property & Land Developers </br> Mahagala kanda</br>Balawala</br>Bopitiya    
+                                Senarath Property & Land Developers </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
 
                             <!--<h4>Phone No & Email</h4>-->
-                            <p style="font-size: large;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br> E-mail   :   info@senaratheng.com</p>
+                            <p style="font-size: large;">Tel    :   037 3619987 </br>Hot   :   070 2520230 </br>Fax   :   037 2245049 </br> E-mail   :   info@senaratheng.com</p>
 
 
                             </p>

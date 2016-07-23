@@ -105,7 +105,7 @@
                                         <li><a href="land_property.php">Ongoing Sites</a></li>
                                        
                                         <!--<li><a href="#">Geographical Map</a></li>-->
-                                         <li><a href="aboutus.php">About Us</a></li>
+                                         <!--<li><a href="aboutus.php">About Us</a></li>-->
                                          <li><a href="contact_us.php">Contact Us</a></li>
                                       
 
@@ -141,9 +141,9 @@
                                         <li class="dropdown-header"><i class="fa fa-th-large"></i><span style="color: blue;"> Plants</span></li>
                                         <li role="separator" class="divider"></li>
                                         <li><a href="Crusher_Plant.php">Crusher Plant</a></li>
-                                        <li><a href="#">Asphalt Plant</a></li>
+                                        <li><a href="Asphalt_Plant.php">Asphalt Plant</a></li>
                                         <li><a href="#">Readymix Plant</a></li>
-                                        <li><a href="#">Cement Blocks & Paving Plant</a></li>
+                                        <li><a href="Cement_Blocks_Paving_Plant.php">Cement Blocks & Paving Plant</a></li>
                                         <li role="separator" class="divider"></li>
                                     </div>
                                     

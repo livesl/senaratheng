@@ -6,7 +6,7 @@
                 <div class="widget newsletter-widget">
                     
             <h5 class="header-widget">About Us</h5>
-                    <img src="images/logo-footer.png" class="img-responsive" alt="BPPE Logo" />
+                    <img src="images/logo-footer.JPG" class="img-responsive" alt="" />
                     <p>Since it’s establishment in June 2005 Senarath Engineering (Pvt) Ltd has actively participated in the Construction  Industry. From it’s beginning as a major supplier of  aggregate products, they have diversified to become one of the leading Civil Engineering Contractors in Sri Lanka. </p>
                 </div>
             </div>
@@ -31,10 +31,13 @@
 
                                 <div class="col-md-3 col-sm-6 mb-sm-100">
                                     <div class="widget twitter-widget">
-                                        <h5 class="header-widget">News & Events</h5>
+                                        <h5 class="header-widget">Senarath Group of Comapany</h5>
                                         <ul class="address-footer">
                                             <li>
-                                                <p><a href="events_news.php">News & Events</a></p>
+                                                <p><a href="SenarathEngineering(Pvt)Ltd.php">Senarath Engineering(Pvt) Ltd</a></p>
+                                                <p><a href="SenarathConstruction(Pvt)Ltd.php">Senarath Constructions(Pvt)Ltd</a></p>
+                                                <p><a href="SenarathMetalCrusher.php">Senarath Metal Crusher</a></p>
+                                                <p><a href="Senarath_Property_Land_Developers.php">Senarath Property & Land Developers</a></p>
                                                
                                             </li>
             
@@ -52,7 +55,7 @@
                         <li>
                             <p><a href="index.php">Home</a></p>
                             <p><a href="aboutus.php">About Us</a></p>
-                            <p><a href="csr.php">SCR</a></p>
+                            <p><a href="csr.php">CSR</a></p>
                             <p><a href="contact_us.php">Contacts</a></p>
                         </li>
 
