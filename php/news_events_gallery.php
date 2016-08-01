@@ -7,6 +7,7 @@
                         <a href="#" data-toggle="modal" data-target="#1">
                             <img src="images/news_events/1.jpg">
                         </a>
+                       
                         <div class="modal fade" id="1" tabindex="-1" role="dialog">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
@@ -19,8 +20,13 @@
                                     </div>
                                 </div>
                             </div>
+                            
                         </div>
+                        
                     </div>
+                    </br>
+                    <!--<div style="color: blue;"><a href="#">See More..</a></div>-->
+                    
                 </div>
                 
                  <div class="col-md-6 col-sm-12 co-xs-12 gal-item">
@@ -42,7 +48,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div></br>
+                    <div style="color: blue; text-align: center;" ><a href="land_property.php" target="_blank" >See More..</a></div>
                 </div>
                 
                

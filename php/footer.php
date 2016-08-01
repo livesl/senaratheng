@@ -31,7 +31,7 @@
 
                                 <div class="col-md-3 col-sm-6 mb-sm-100">
                                     <div class="widget twitter-widget">
-                                        <h5 class="header-widget">Senarath Group of Comapany</h5>
+                                        <h5 class="header-widget">Senarath Group of Comapanies</h5>
                                         <ul class="address-footer">
                                             <li>
                                                 <p><a href="SenarathEngineering(Pvt)Ltd.php">Senarath Engineering(Pvt) Ltd</a></p>

@@ -211,31 +211,61 @@
 
                     <br /> 
                     <div class="row">
-                        <div div class="col-sm-6">
-                            <h4 style="color: #007EFF;">Head Office</h4></br>
+                        <div div class="col-sm-3">
+                            <p style="color: #007EFF;font-size: small;">Head Office</p></br>
                             <!--<h6>Address</h6>-->
-                            <p style="font-size: large;">
-                                Senarath Group </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
+                            <p style="font-size: small;">
+                                Senarath Group </br> Maddumamulla Estate</br>Thalammehera</br>Pannala</p>    
 
                             <!--<h4>Phone No & Email</h4>-->
-                            <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
+                            <p style="font-size: small;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
 
 
-                            </p>
+                      
 
 
                         </div>
-                        <div div class="col-sm-6" >
-                             <h4 style="color: #007EFF;">Quarry and Metal Crusher</h4></br>
+                        <div div class="col-sm-3" >
+                            <p style="color: #007EFF;font-size: small;">Quarry and Metal Crusher</p></br>
                             <!--<h6>Address</h6>-->
-                            <p style="font-size: large;">
-                                Senarath Engineering (pvt) Ltd </br> Mahagala kanda</br>Balawala</br>Bopitiya    
+                            <p style="font-size: small;">
+                                Senarath Engineering (pvt) Ltd </br> Mahagala kanda</br>Balawala</br>Bopitiya </p>   
 
                             <!--<h4>Phone No & Email</h4>-->
-                            <p style="font-size: large;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
+                            <p style="font-size: small;">Tel    :   037 3619998 </br>Hot   :   071 0590321 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
 
 
-                            </p>
+                           
+
+                            
+                            
+                        </div>
+                        
+                        <div div class="col-sm-3">
+                            <p style="color: #007EFF;font-size: small;">Senarath Construction <br>Pvt(Ltd)</p>
+                            <!--<h6>Address</h6>-->
+                            <p style="font-size: small;">
+                                Senarath Construction Pvt(Ltd) </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
+
+                            <!--<h4>Phone No & Email</h4>-->
+                            <p style="font-size: small;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
+
+
+                          
+
+
+                        </div>
+                        <div div class="col-sm-3" >
+                            <p style="color: #007EFF;font-size: small;">Senarath&nbsp;Property & Land Developers</p>
+                            <!--<h6>Address</h6>-->
+                            <p style="font-size: small;">
+                                Senarath Property & Land Developers </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    </p>
+
+                            <!--<h4>Phone No & Email</h4>-->
+                            <p style="font-size: small;">Tel    :   037 3619987 </br>Hot   :   070 2520230 </br>Fax   :   037 2245049 </br> E-mail   :   info@senaratheng.com</p>
+
+
+                         
 
                             
                             
@@ -266,14 +296,14 @@
                     <hr>
                     </br>
                     
-                     <div class="row">
+<!--                     <div class="row">
                         <div div class="col-sm-6">
                             <h4 style="color: #007EFF;">Senarath Construction <br>Pvt(Ltd)</h4></br>
-                            <!--<h6>Address</h6>-->
+                            <h6>Address</h6>
                             <p style="font-size: large;">
                                 Senarath Construction Pvt(Ltd) </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
 
-                            <!--<h4>Phone No & Email</h4>-->
+                            <h4>Phone No & Email</h4>
                             <p style="font-size: large;">Tel    :   037 2246324 </br>Hot   :   070 2520225 </br>Fax   :   037 2245049</br> E-mail   :   info@senaratheng.com</p>
 
 
@@ -283,11 +313,11 @@
                         </div>
                         <div div class="col-sm-6" >
                              <h4 style="color: #007EFF;">Senarath Property & Land Developers</h4></br>
-                            <!--<h6>Address</h6>-->
+                            <h6>Address</h6>
                             <p style="font-size: large;">
                                 Senarath Property & Land Developers </br> Maddumamulla Estate</br>Thalammehera</br>Pannala    
 
-                            <!--<h4>Phone No & Email</h4>-->
+                            <h4>Phone No & Email</h4>
                             <p style="font-size: large;">Tel    :   037 3619987 </br>Hot   :   070 2520230 </br>Fax   :   037 2245049 </br> E-mail   :   info@senaratheng.com</p>
 
 
@@ -299,7 +329,7 @@
 
 
 
-                    </div></br>
+                    </div></br>-->
 
                 </div>
         </section><!--
