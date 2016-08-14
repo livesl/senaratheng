@@ -6,7 +6,7 @@
                 <div class="widget newsletter-widget">
                     
             <h5 class="header-widget">About Us</h5>
-                    <img src="images/logo-footer.JPG" class="img-responsive" alt="" />
+                    <img src="images/logo-footer.jpg" class="img-responsive" alt="" />
                     <p>Since it’s establishment in June 2005 Senarath Engineering (Pvt) Ltd has actively participated in the Construction  Industry. From it’s beginning as a major supplier of  aggregate products, they have diversified to become one of the leading Civil Engineering Contractors in Sri Lanka. </p>
                 </div>
             </div>

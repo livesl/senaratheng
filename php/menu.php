@@ -22,7 +22,7 @@
                                     <div class="col-lg-3 mb-sm-30">
                                         <li class="dropdown-header" ><i class="fa fa-trophy"></i> <span style="color: blue;">Achievements</span></li>
                                         <li role="separator" class="divider"></li>
-                                         <li><a href="CIDA_ICTAD.php">CIDA - ICTAD </a></li>
+                                         <!--<li><a href="CIDA_ICTAD.php">CIDA - ICTAD </a></li>-->
                                          <li><a href="ISO_Certification.php">ISO Certification</a></li>
                                        
                                         <li role="separator" class="divider"></li>
